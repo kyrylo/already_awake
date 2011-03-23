@@ -1,0 +1,17 @@
+# This is not really a .desktop file like the rest, but it is useful to treat
+# it as such
+
+[KdmGreeterTheme]
+Greeter=already_awake.xml
+Name=Already awake?
+Name[en_GB]=Already awake?
+Name[ru]=Уже проснулся?
+Name[uk]=Already awake?
+Name[ua]=Вже прокинувся?
+Description=KDM4 theme with white background
+Description[en_GB]=KDM4 theme with white background
+Description[ru]=Тема для КДМ4 с белым фоном
+Description[uk]=Тема для КДМ4 з білим фоном
+Author=Kirill Silin
+Copyright=© 2011 MIT License
+Screenshot=screenshot.png
