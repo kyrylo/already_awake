@@ -1,0 +1,21 @@
+= Already awake?
+Yes. "Already awake?" is a {KDM4}[http://en.wikipedia.org/wiki/KDE_Display_Manager] theme with white 
+background and red text.
+
+{Screenshot1}[http://kde-look.org/CONTENT/content-pre1/140118-1.png]
+
+== Installation
+
+1. Download theme
+2. Navigate to "System Settings"
+3. At the "System Administration" section find "Login Screen" button
+4. At "Login Screen" choose "Theme" tab
+5. Choose "Install new theme" or press Alt+N hotkey
+6. Choose downloaded theme and apply it
+7. Provide your root password, if need
+8. Click "Apply" in the right bottom corner or merely press Alt+A hotkey
+Next time, when you login, you'll see new theme
+
+== Feedback
+
+You are able to send me emails on kirill@silin.in
